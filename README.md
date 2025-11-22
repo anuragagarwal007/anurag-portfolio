@@ -19,41 +19,77 @@ This portfolio is designed as a **single-page, modern, and minimal website** foc
 
 ## ✨ Features
 
-- Dark / Light theme toggle  
-- Professional hero intro: “Hello. I’m Anurag”  
-- Skills grid (Manual, Automation, Selenium, SQL etc.)  
-- Case studies section  
-- Work experience (Adobe Acrobat Pro & Reader testing)  
-- Contact section with icons  
+- 🌓 **Dark / Light Theme Toggle**
+- 👋 Modern hero intro — “Hello. I’m Anurag”
+- 🛠 Detailed **Skills Grid**
+- 📂 **Project Case Studies** (Banking, E-Commerce, Adobe Acrobat DC)
+- 💼 **Work Experience** (Hexaview Technologies Pvt. Ltd)
+- 🧪 Exposure in Cross-browser, Cross-device, Accessibility Testing
+- 📞 Modern Contact Section with Email, LinkedIn, GitHub icons
 
 ---
 
 ## 🛠 Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**  
+- No frameworks required (simple & lightweight)
+
+---
+
+## 📁 Project Structure
+
+```
+anurag-portfolio/
+│── index.html
+│── anurag-profile.jpg
+│── (future assets like css/js/images)
+```
 
 ---
 
 ## 🚀 Run Locally
 
-Just open `index.html` in a browser.
+Simply open:
+
+```
+index.html
+```
+
+in any browser (Chrome, Edge, Firefox).
 
 ---
 
-## 🌐 Deployment (GitHub Pages)
+## 🌐 Deployment Using GitHub Pages
 
-1. Open repo → Settings → Pages  
-2. Branch: `main`  
-3. Folder: `/`  
+1. Open your repo → **Settings**
+2. Go to **Pages**
+3. Set:
+   - Branch → `main`
+   - Folder → `/ (root)`
+4. Save
 
-Live URL:  
-`https://anuragagarwal007.github.io/anurag-portfolio/`
+Your live portfolio will appear at:
+
+```
+https://anuragagarwal007.github.io/anurag-portfolio/
+```
 
 ---
 
 ## 📬 Contact
 
-- Email: official.anurag.agarwal@gmail.com  
-- LinkedIn: https://linkedin.com/in/anurag860  
-- GitHub: https://github.com/anuragagarwal007
+- **Email:** official.anurag.agarwal@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/anurag860  
+- **GitHub:** https://github.com/anuragagarwal007
+
+---
+
+### 🙌 Acknowledgements
+
+Designed to highlight my journey as a **Software Quality Engineer**, focusing on:
+
+- Strong testing fundamentals  
+- Real-world QA experience  
+- UI that feels clean, modern, and recruiter-friendly  
